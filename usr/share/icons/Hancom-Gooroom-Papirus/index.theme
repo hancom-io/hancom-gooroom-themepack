@@ -1,0 +1,21 @@
+[Icon Theme]
+Name=Hancom Gooroom Icon Theme
+Comment=Hancom Gooroom icon theme based on Gooroom-Papirus
+Inherits=Gooroom-Papirus
+
+# Directory list
+Directories=places/symbolic,status/scalable
+
+[places/symbolic]
+Context=Places
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[status/scalable]
+Context=Status
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
