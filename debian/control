@@ -1,0 +1,13 @@
+Source: hancom-gooroom-themepack
+Section: x11
+Priority: optional
+Maintainer: gooroom <gooroom@hancom.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+Homepage: http://www.hancom.com
+Vcs-Git: https://github.com/hancom-gooroom/hancom-gooroom-themepack.git
+Vcs-Browser: https://github.com/hancom-gooroom/hancom-gooroom-themepack
+
+Package: hancom-gooroom-themepack
+Architecture: all
+Description: Hancom Gooroom Theme Pack
