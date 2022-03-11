@@ -1,3 +1,16 @@
+hancom-gooroom-themepack (0.3.0+han3u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [3d9ae5ec] Initial Release
+  * [e092cb1b] Added grub images for samsungsvc
+
+  [ boyeon.choi ]
+  * [cbfe61d5] Hancom Gooroom 3.0 Initialization
+  * [adfb48a3] Added gtk themes
+  * [cb81c142] Changed boot-menu image
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 11 Mar 2022 21:31:11 +0900
+
 hancom-gooroom-themepack (0.1.1+han2u1) unstable; urgency=medium
 
   * Released Version 0.1.1+han2u1
