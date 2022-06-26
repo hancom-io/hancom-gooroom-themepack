@@ -1,3 +1,10 @@
+hancom-gooroom-themepack (0.3.1+han3u1) unstable; urgency=medium
+
+  [ boyeon.choi ]
+  * [c5d66a02] Added nimf-logo icon
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 27 Jun 2022 08:16:04 +0900
+
 hancom-gooroom-themepack (0.3.0+han3u1) unstable; urgency=medium
 
   [ jongkyung.woo ]
